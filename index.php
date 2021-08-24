@@ -20,7 +20,7 @@
     <p>
         <button onclick="window.location.href='https://github.com/gowenga1/EducatorBox/blob/main/ContactLogPage.php';">Contact Log</button>
     </p>
-        <button onclick="window.location.href='http://localhost/PTConferenceRequestPage.php';">Parent Conference</button>
+        <button onclick="window.location.href='https://github.com/gowenga1/EducatorBox/blob/main/PTConferenceRequestPage.php';">Parent Conference</button>
     <p>
     <button class="danger">Exit</button>
     </p>
