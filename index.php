@@ -16,7 +16,7 @@
         <button onclick="window.location.href='http://localhost/TeacherRegistration.php';">Teacher Registration</button>
 
     </p>
-        <button onclick="window.location.href='http://localhost/StudentRegistrationPage.php';">Student Registration</button>
+        <button onclick="window.location.href='https://github.com/gowenga1/EducatorBox/blob/main/StudentRegistrationPage.php';">Student Registration</button>
     <p>
         <button onclick="window.location.href='http://localhost/ContactLogPage.php';">Contact Log</button>
     </p>
