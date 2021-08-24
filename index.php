@@ -13,14 +13,14 @@
 
 <body>
     <!--Buttons links to teacher pages -->
-        <button onclick="window.location.href='https://github.com/gowenga1/EducatorBox/blob/main/TeacherRegistration.php';">Teacher Registration</button>
+        <button onclick="window.location.href='http://localhost/TeacherRegistration.php';">Teacher Registration</button>
 
     </p>
-        <button onclick="window.location.href='https://github.com/gowenga1/EducatorBox/blob/main/StudentRegistrationPage.php';">Student Registration</button>
+        <button onclick="window.location.href='http://localhost/StudentRegistrationPage.php';">Student Registration</button>
     <p>
-        <button onclick="window.location.href='https://github.com/gowenga1/EducatorBox/blob/main/ContactLogPage.php';">Contact Log</button>
+        <button onclick="window.location.href='http://localhost/ContactLogPage.php';">Contact Log</button>
     </p>
-        <button onclick="window.location.href='https://github.com/gowenga1/EducatorBox/blob/main/PTConferenceRequestPage.php';">Parent Conference</button>
+        <button onclick="window.location.href='http://localhost/PTConferenceRequestPage.php';">Parent Conference</button>
     <p>
     <button class="danger">Exit</button>
     </p>
